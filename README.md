@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Chodhoudhary
 - 👀 I love making web application 
-- 🌱 I’m a student of Btech cse
+- 🌱 I’m a Btech cse student 
 
 <!---
 abhisheknagdyal/abhisheknagdyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
