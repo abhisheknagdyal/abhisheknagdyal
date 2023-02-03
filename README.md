@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Chodhoudhary
-- 👀 I love making web application 
+- 👀 love making web application 
 - 🌱 I’m a Btech cse student 
 
 <!---
